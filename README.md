@@ -1,6 +1,7 @@
 ### Hello friend, I'm Kevin Yu. So delighted to see you here in my programming world!
 
 - 👨‍💻 I am a postgraduate student at the University of Hong Kong, majoring in Computer Science (Cyber Security).
+- 👨‍💻 I am currently a back-end development intern at Merchants Union Consumer Finance Company Limited(Shenzhen).
 - 💖 I’m interested in Web developing, socket programming, desktop apps and more.
 - 📔 I also take a pleasure in reading, playing basketball, swimming, skiing and playing the game of Go.
 - 🥰 I enjoy a balanced lifestyle where I harvest boundless creativity.
